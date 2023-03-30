@@ -1,0 +1,35 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="22">
+            <item index="0" class="java.lang.String" itemvalue="protobuf" />
+            <item index="1" class="java.lang.String" itemvalue="pyflakes" />
+            <item index="2" class="java.lang.String" itemvalue="iso8601" />
+            <item index="3" class="java.lang.String" itemvalue="wrapt" />
+            <item index="4" class="java.lang.String" itemvalue="setuptools-scm" />
+            <item index="5" class="java.lang.String" itemvalue="packaging" />
+            <item index="6" class="java.lang.String" itemvalue="pycodestyle" />
+            <item index="7" class="java.lang.String" itemvalue="requests" />
+            <item index="8" class="java.lang.String" itemvalue="flake8" />
+            <item index="9" class="java.lang.String" itemvalue="mysql-connector-python" />
+            <item index="10" class="java.lang.String" itemvalue="keyrings.cryptfile" />
+            <item index="11" class="java.lang.String" itemvalue="python-certifi-win32" />
+            <item index="12" class="java.lang.String" itemvalue="serial" />
+            <item index="13" class="java.lang.String" itemvalue="colorama" />
+            <item index="14" class="java.lang.String" itemvalue="mccabe" />
+            <item index="15" class="java.lang.String" itemvalue="argon2-cffi-bindings" />
+            <item index="16" class="java.lang.String" itemvalue="typing_extensions" />
+            <item index="17" class="java.lang.String" itemvalue="charset-normalizer" />
+            <item index="18" class="java.lang.String" itemvalue="argon2-cffi" />
+            <item index="19" class="java.lang.String" itemvalue="tomli" />
+            <item index="20" class="java.lang.String" itemvalue="pycryptodome" />
+            <item index="21" class="java.lang.String" itemvalue="urllib3" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
