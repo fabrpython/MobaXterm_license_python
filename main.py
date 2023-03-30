@@ -3,6 +3,8 @@
 Author: Double Sine
 License: GPLv3
 '''
+###README.md su https://github.com/mzjdy/MobaXterm-Keygen/blob/master/README.md
+
 import os, sys, zipfile
 
 VariantBase64Table = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/='
